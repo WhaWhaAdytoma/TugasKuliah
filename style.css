@@ -1,0 +1,112 @@
+
+
+
+
+
+
+.wrap{
+	background: white;
+	width: 1000px;
+	margin: 10px auto;
+}
+
+
+
+
+/*bagian header*/
+.wrap .header{
+	float:center;
+	background: white    ;
+	height: 40px;
+	padding: 10px;
+}
+
+
+
+.wrap .banner{
+	text-align:center;
+	background:white;
+	 max-height: 180px;
+	overflow: hidden;
+    position: relative;
+	
+}
+
+/*akhir header*/
+
+/*bagian menu*/
+.wrap .menu{
+	background:White;
+	height: 80px;
+	padding: 0;
+	width: 800px;	
+	float: right;
+}
+
+.wrap .menu ul{
+	margin: 0;
+	background: White;
+	overflow: hidden;
+
+}
+
+.wrap .menu ul li{
+	position: center;
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+/*akhir menu*/
+
+.clear{
+	clear: both;
+}
+
+.badan{
+	height: 450px;
+}
+/*bagian sidebar*/
+.wrap .badan .sidebar{
+	background:  white        ;
+	float: left;	
+	width: 300px;
+	height: 100%;
+}
+
+
+/*akhir sidebar*/
+
+.wrap .badan .content{
+	background: white;
+	float: right;
+	height: 100%;
+	width: 700px;	
+}
+
+.wrap .badan .content .menu2{
+	background:White;
+	height: 80px;
+	padding: 0;
+	width: 700px;	
+	float: right;
+}
+.wrap .badan .content ul{
+		margin: 0;
+	background: white;
+	overflow: hidden;
+}
+
+.wrap .badan .content ul li{
+	position: center;
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+
+.wrap .footer{
+	width: 990px;
+	padding: 10px;
+	background : white  ;
+	text-align:center;
+	
+}
